@@ -74,7 +74,7 @@ int main( ){
 	
 	return 0;
 }
-
+//High speed exponential calclation(a^k mod n)
 int func(int a,int k,int n){
 	a %= n;
 	int i;
